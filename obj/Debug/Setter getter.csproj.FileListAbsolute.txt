@@ -1,0 +1,8 @@
+E:\git\Setter getter\bin\Debug\Setter getter.exe.config
+E:\git\Setter getter\bin\Debug\Setter getter.exe
+E:\git\Setter getter\bin\Debug\Setter getter.pdb
+E:\git\Setter getter\obj\Debug\Setter getter.csproj.AssemblyReference.cache
+E:\git\Setter getter\obj\Debug\Setter getter.csproj.SuggestedBindingRedirects.cache
+E:\git\Setter getter\obj\Debug\Setter getter.csproj.CoreCompileInputs.cache
+E:\git\Setter getter\obj\Debug\Setter getter.exe
+E:\git\Setter getter\obj\Debug\Setter getter.pdb
